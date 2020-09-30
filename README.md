@@ -3,4 +3,4 @@
 
     Table Of Contents
 
-    1. [Markdown and Github](https://hasankhalifeh.github.io/code201readingnotes/read01)
+    - [Markdown and Github](https://hasankhalifeh.github.io/code201readingnotes/read01)
