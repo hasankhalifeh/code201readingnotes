@@ -29,8 +29,19 @@
         To order your list, precede each line with a number.
 
     ## Nested list 
-         You can create a nested list by indenting one or more of list items. T
+         You can create a nested list by indenting one or more of list items. 
+
+    ## Using Emoji 
+        You can add an emoji to your writing by typing :emojicode:
 
 
+    ## Ignoring markdown formatting
+    - You can tell Git Hub to ignore markdown formatting by using \ before the markdown character. 
 
-        
+
+# Getting started with Github
+
+    Github pages are public webpages hosted and easily created through github. The quickest way to start is running and using jekyll theme chooser which has loaded pre maded themes. 
+        - To create a website the first step would be to create a repository. Once created your website files will be live under code.
+        To get the link of the website you going under setting to scroll down and find the url link to your new webpage.
+        - Once you have filled your webpage you have to commit the changes at the bottom of the screen. 
