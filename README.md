@@ -8,4 +8,5 @@
     -[Read03](https://hasankhalifeh.github.io/code201readingnotes/read03)
     [Read04](https://hasankhalifeh.github.io/code201readingnotes/read04)
     [Read05](https://hasankhalifeh.github.io/code201readingnotes/read05)
-    [Read06]( [Read05](https://hasankhalifeh.github.io/code201readingnotes/read06))
+    [Read06]( [Read05](https://hasankhalifeh.github.io/code201readingnotes/read06)
+    [Read07](https://hasankhalifeh.github.io/code201readingnotes/read07)
