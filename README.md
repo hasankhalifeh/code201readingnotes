@@ -11,3 +11,4 @@
     [Read06]( [Read05](https://hasankhalifeh.github.io/code201readingnotes/read06)
     [Read07](https://hasankhalifeh.github.io/code201readingnotes/read07)
     [Read08](https://hasankhalifeh.github.io/code201readingnotes/read08)
+    [Read09](https://hasankhalifeh.github.io/code201readingnotes/read09)
